@@ -18,3 +18,6 @@ Please describe the desired behavior.
 
 **Describe alternatives you've considered**
 Please describe alternative solutions or features you have considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
