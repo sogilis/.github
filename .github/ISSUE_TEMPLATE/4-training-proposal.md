@@ -10,6 +10,7 @@ about: Propose a new internal training
 - [ ] [People](#people) are *all* selected
 - [ ] Potential [Requirement(s)](#requirements) are described
 - [ ] [Initial artifact](#artifact) link is provided
+- [ ] Optional [External supports](#external_supports) are provided
 
 # Artifact
 
@@ -19,7 +20,7 @@ about: Propose a new internal training
 
 *or*
 
-- Markdown-based presentation here : [Github branch/PR link here]()
+- Markdown-based presentation here : [PR link here]()
 
 # Training properties
 
@@ -29,12 +30,14 @@ about: Propose a new internal training
 
 *Please describe the main subject and the scope of the training.*
 
-Expected level of the training (see below for details):
-- [ ] Presentation
-- [ ] Initiation
-- [ ] Deepening
+Note: It is recommended to deliver small and often :)
 
-*Note: a single training may cover more than one level. But it is recommended to deliver small and often :)*
+### Detailed content
+
+*Here will be an training brick list*
+
+* [ ] Brick one
+* [ ] Brick two
 
 **Expected duration**
 
@@ -56,29 +59,8 @@ Expected level of the training (see below for details):
 
 *Please provide `@` link(s) to training content writer(s).*
 
-**who presents the training?**
-
-*Please provide `@` link(s) to training presenters(s).*
-
 ## Requirements
 
 **Training environment**
 
 *Please list requirements here*
-
-
-----
-
-## Training levels
-
-### Presentation
-A presentation, rather short, does not involve training environment.
-
-### Initiation
-A first-level training, aimed on beginners.
-
-### Deepening
-An advanced level training, aimed on people already granted on the initiation level.
-
-### Mastery
-Training for people with expert needs, with large outline and selectable content.
