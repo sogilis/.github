@@ -1,5 +1,5 @@
 ---
-name: ":notebook_with_decorative_cover: Training proposal"
+name: "\U0001F4D4 Training proposal"
 about: Propose a new internal training
 
 ---
